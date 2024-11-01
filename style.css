@@ -438,7 +438,7 @@ label #cancel{
         left: -100%;
         text-align: center;
         transition: all .5s;
-        display: flex;
+        display: block;
         flex-direction: column;
         justify-content: center;
     }
